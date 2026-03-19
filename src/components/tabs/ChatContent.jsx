@@ -3,10 +3,10 @@
 // Extend with props to make messages dynamic from an API.
 
 const MESSAGES = [
-  { id: 1, name: "Meera S.",    time: "2m ago",    text: "Hey! Did you check the new design system?", unread: true,  avatar: "MS" },
+  { id: 1, name: "Santhosh Kumar S",    time: "2m ago",    text: "Hey! Did you check the new design system?", unread: true,  avatar: "SK" },
   { id: 2, name: "Dev Team",    time: "1h ago",    text: "Sprint review at 4 PM — don't miss it!",    unread: true,  avatar: "DT" },
-  { id: 3, name: "Priya R.",    time: "3h ago",    text: "The component looks great, nice work 🔥",   unread: false, avatar: "PR" },
-  { id: 4, name: "Karthik M.",  time: "Yesterday", text: "Can we sync tomorrow morning?",             unread: false, avatar: "KM" },
+  { id: 3, name: "Gayathri V R.",    time: "3h ago",    text: "The component looks great, nice work 🔥",   unread: false, avatar: "GV" },
+  { id: 4, name: "Aazhini S.",  time: "Yesterday", text: "Can we sync tomorrow morning?",             unread: false, avatar: "AS" },
   { id: 5, name: "Design Club", time: "2d ago",    text: "New Figma tokens are live!",               unread: false, avatar: "DC" },
 ];
 
